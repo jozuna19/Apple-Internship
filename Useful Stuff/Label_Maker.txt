@@ -1,0 +1,5 @@
+This is mainly for people who want to use the script with Command Line and not use the GUI at all.
+
+Right now I have yet to use the script for Apple Watch devices but I will be able to add functionality
+for that soon. 
+How to use the script in Command Line: ""./CD_Label_Maker.py /Users/johnoz/Documents/LFG.tsv
